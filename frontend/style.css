@@ -1,0 +1,22 @@
+#home{
+    text-align: center;
+    margin-top: 40vh;
+}
+
+#message{
+    display: flex;
+    justify-content: center;
+}
+
+.table-container{
+    max-height: 500px;
+    overflow: scroll;
+}
+
+.bi{
+    font-size: 20px;
+}
+.pointer{
+    cursor: pointer;
+}
+
